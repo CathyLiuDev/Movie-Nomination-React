@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Movie-Nomination-React/static/css/main.4be9e069.chunk.css",
+    "main.js": "/Movie-Nomination-React/static/js/main.dcddc1cf.chunk.js",
+    "main.js.map": "/Movie-Nomination-React/static/js/main.dcddc1cf.chunk.js.map",
+    "runtime-main.js": "/Movie-Nomination-React/static/js/runtime-main.7ccd8121.js",
+    "runtime-main.js.map": "/Movie-Nomination-React/static/js/runtime-main.7ccd8121.js.map",
+    "static/css/2.bc0795c7.chunk.css": "/Movie-Nomination-React/static/css/2.bc0795c7.chunk.css",
+    "static/js/2.3e444fcf.chunk.js": "/Movie-Nomination-React/static/js/2.3e444fcf.chunk.js",
+    "static/js/2.3e444fcf.chunk.js.map": "/Movie-Nomination-React/static/js/2.3e444fcf.chunk.js.map",
+    "static/js/3.1c3cdc9d.chunk.js": "/Movie-Nomination-React/static/js/3.1c3cdc9d.chunk.js",
+    "static/js/3.1c3cdc9d.chunk.js.map": "/Movie-Nomination-React/static/js/3.1c3cdc9d.chunk.js.map",
+    "index.html": "/Movie-Nomination-React/index.html",
+    "static/css/2.bc0795c7.chunk.css.map": "/Movie-Nomination-React/static/css/2.bc0795c7.chunk.css.map",
+    "static/css/main.4be9e069.chunk.css.map": "/Movie-Nomination-React/static/css/main.4be9e069.chunk.css.map",
+    "static/js/2.3e444fcf.chunk.js.LICENSE.txt": "/Movie-Nomination-React/static/js/2.3e444fcf.chunk.js.LICENSE.txt",
+    "static/media/Shoppies_Logo2.e8325fdd.png": "/Movie-Nomination-React/static/media/Shoppies_Logo2.e8325fdd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ccd8121.js",
+    "static/css/2.bc0795c7.chunk.css",
+    "static/js/2.3e444fcf.chunk.js",
+    "static/css/main.4be9e069.chunk.css",
+    "static/js/main.dcddc1cf.chunk.js"
+  ]
+}
