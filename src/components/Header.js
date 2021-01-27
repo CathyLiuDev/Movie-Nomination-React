@@ -21,19 +21,7 @@ const Header = () => {
 				    <a href="index-2.html"><img class="logo" src={logo} alt="" width="200" height="60"></img></a>
 			    </div>
 				<div><PopupInstructions/></div>	
-				{/* <div class="collapse navbar-collapse flex-parent" id="bs-example-navbar-collapse-1"></div>
-                <ul class="nav navbar-nav flex-child-menu menu-right">
-                <li class="btn signupLink"><a href="#">sign up</a></li>
-					</ul> */}
 				</nav>
-        {/* <div class="top-search">
-	    	<select>
-				<option value="united">TV show</option>
-				<option value="saab">Others</option>
-			</select>
-			<input type="text" placeholder="Search for a movie, TV Show or celebrity that you are looking for"></input> */}
-	    {/* </div> */}
-
 	</div>
 </div>
 		</>
